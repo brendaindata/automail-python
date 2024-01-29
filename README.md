@@ -16,7 +16,7 @@ Configuração do envio automático de e-mails personalizados.
 ## Pré-requisitos
 Python 3.x instalado
 
-Bibliotecas Python (ver import e install nos códigos .py)
+Bibliotecas Python (imap_tools)
 
 ## Como Usar
 
@@ -36,15 +36,15 @@ Explore os exemplos e personalize conforme necessário para suas necessidades.
 
 Execute os scripts e aproveite a automação!
 
-Exemplos
-leitura_emails.py: Exemplo de como ler e processar e-mails automaticamente.
+## Exemplos
+emailSend.py: Base de envio de e-mails de forma programática.
 
-envio_emails.py: Demonstração de como enviar e-mails de forma programática.
+readEmail.py: Base de leitura e filtragem de e-mails.
 
-Contribua
-Se você tem ideias para melhorar este repositório ou encontrou algum problema, sinta-se à vontade para contribuir! Basta seguir as diretrizes de contribuição no arquivo CONTRIBUTING.md.
+## Contribua
+Se você tem ideias para melhorar este repositório ou encontrou algum problema, sinta-se à vontade para contribuir! 
 
-Licença
+## Licença
 Este projeto é licenciado sob a Licença MIT - fique à vontade para usá-lo e adaptá-lo para atender às suas necessidades.
 
 Divirta-se automatizando seus e-mails com Python! 🚀📧
