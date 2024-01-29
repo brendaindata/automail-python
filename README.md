@@ -15,19 +15,23 @@ Configuração do envio automático de e-mails personalizados.
 
 ## Pré-requisitos
 Python 3.x instalado
+
 Bibliotecas Python (ver import e install nos códigos .py)
 
 ## Como Usar
-### Clone o repositório:
 
-bash
-Copy code
+1. Clone o repositório:
+
+```
 git clone https://github.com/brendaindata/automail-python.git
-Instale as dependências:
+```
 
-bash
-Copy code
-pip install -r requirements.txt
+2. Instale as dependências:
+
+```
+pip install imap_tools
+```
+
 Explore os exemplos e personalize conforme necessário para suas necessidades.
 
 Execute os scripts e aproveite a automação!
